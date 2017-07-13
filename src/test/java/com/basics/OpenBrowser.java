@@ -19,12 +19,13 @@ public class OpenBrowser {
 
 	@AfterClass
 	public void tearDown() {
-		driver.quit();
+		//driver.quit();
 	}
 
 	@Test
 	public void testBrowser() {
 		driver.get("https://in.yahoo.com/");
 	}
+		
 
 }
