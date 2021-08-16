@@ -7,7 +7,7 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.DriverRepo;
+import com.helper.DriverRepo;
 
 public class StalemateExceptionEg {
 

@@ -7,7 +7,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import com.DriverRepo;
+import com.helper.DriverRepo;
 
 /*
  * AutoIT: 3rd party tool used to handle Window specific UI

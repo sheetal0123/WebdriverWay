@@ -21,7 +21,7 @@ import org.testng.TestListenerAdapter;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
-import com.DriverRepo;
+import com.helper.DriverRepo;
 
 /**
  * code working for d sood on window m/c 

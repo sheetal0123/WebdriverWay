@@ -2,7 +2,7 @@ package com.basics;
 
 import org.openqa.selenium.WebDriver;
 
-import com.DriverRepo;
+import com.helper.DriverRepo;
 
 public class Test {
 

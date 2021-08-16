@@ -5,7 +5,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import com.DriverRepo;
+import com.helper.DriverRepo;
 
 /*
  * Dynamic means on every refresh id of elements are changing

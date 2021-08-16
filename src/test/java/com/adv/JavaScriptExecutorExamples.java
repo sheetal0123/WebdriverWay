@@ -5,7 +5,7 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
-import com.DriverRepo;
+import com.helper.DriverRepo;
 
 public class JavaScriptExecutorExamples {
 

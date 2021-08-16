@@ -11,7 +11,7 @@ import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-import com.DriverRepo;
+import com.helper.DriverRepo;
 
 /*
  * Robot class is a java class which take control of Mouse and Keyboard

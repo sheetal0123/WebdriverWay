@@ -9,7 +9,7 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 
-import com.DriverRepo;
+import com.helper.DriverRepo;
 
 public class ScreenShot {
 	WebDriver driver;
